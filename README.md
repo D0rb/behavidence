@@ -1,8 +1,10 @@
 
 :iphone: # Pendo Android app based on TMDB's api 
-:
+
+
 :wave: ## Info related to me:
 **Name**  *Dor Bismuth*
+
 
 **email**  *dor.bismut@gmail.com*
 
