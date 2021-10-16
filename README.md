@@ -2,7 +2,7 @@
 :iphone: # Pendo Android app based on TMDB's api 
 
 
-:wave: ## Info related to me:
+## Info related to me: :wave: 
 **Name**  *Dor Bismuth*
 
 
